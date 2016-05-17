@@ -16,6 +16,8 @@ Alguien que explora los límites
 
 # Hockey air
 
+https://jjrobots.com/air-hockey-robot-a-3d-printer-hack/
+
 # Cortina de agua
 
 https://blog.adafruit.com/2016/05/16/water-curtain-is-arduino-powered-uses-3d-printed-valves-nozzles-to-print-letters-drawings-with-water-arduino-3dprinting/
