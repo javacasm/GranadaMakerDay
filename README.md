@@ -165,6 +165,18 @@ https://blog.adafruit.com/2016/05/16/water-curtain-is-arduino-powered-uses-3d-pr
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
+# [AxiDraw](http://shop.evilmadscientist.com/productsmenu/846)
+
+![1](https://i.redditmedia.com/dZ65vR4e8-YZ0PLgv79ucL8dZb6D2Ge64ztABW8xHIs.jpg?w=320&s=b3ca1d7469f503a4d6461fb13d880f09)
+
+[vídeo](https://www.youtube.com/watch?v=ce35RAMMQug)
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+
 
 ## Tutoriales de ObiJuan
 
