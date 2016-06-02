@@ -10,6 +10,7 @@
 
 ![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 ## José Antonio Vacas  @javacasm
+https://swipe.to/8031r
 
 ***
 
@@ -196,6 +197,19 @@ https://blog.adafruit.com/2016/05/16/water-curtain-is-arduino-powered-uses-3d-pr
 ## FPGAs
 
 ![title](https://camo.githubusercontent.com/d27a6c4e5a2a443c4cfe817623bd663e7c74b244/687474703a2f2f696d672e796f75747562652e636f6d2f76692f336e6e5137565472534c6f2f302e6a7067)
+
+***
+
+<!-- background: #184bc6 -->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+
+# ¿Dónde encontrar proyectos interesantes?
+## [Instructables](http://www.instructables.com/)
+## [Make Magazine](http://makezine.com)
+## [Hack a day](http://hackaday.com)
+## [Hackster IO](https://www.hackster.io/)
+![title](http://cdn.instructables.com/FLK/HF3T/ZOZEP27UXSK/FLKHF3TZOZEP27UXSK.MEDIUM.jpg)
 
 ***
 
