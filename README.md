@@ -122,14 +122,16 @@ https://blog.adafruit.com/2016/05/16/water-curtain-is-arduino-powered-uses-3d-pr
 
 ## Tutoriales de ObiJuan
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
 
 ## FPGAs
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -140,7 +142,8 @@ https://blog.adafruit.com/2016/05/16/water-curtain-is-arduino-powered-uses-3d-pr
 * Software libre
 * Conocimiento libre
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -151,7 +154,8 @@ https://blog.adafruit.com/2016/05/16/water-curtain-is-arduino-powered-uses-3d-pr
 * Fresadora
 * ...
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
