@@ -19,6 +19,7 @@
 
 # ¿Qué es un maker?
 Mi padre es un maker
+
 Mi madre es una maker
 
 Siempre me animaron a serlo, a hacer cosas:
@@ -47,11 +48,18 @@ Recordamos
 <!-- font: centurygothic -->
 
 
-# Para mi un Maker es un Hacker que hace cosas, más físico
+# Un Maker es un Hacker que hace cosas, más físico
+
+***
+
+<!-- background: #184bc6-->
+<!-- color: #fff -->
+<!-- font: centurygothic -->
+
 
 ## ¿Qué es un hacker?
 
-Alguien que explora los límites quiere controlar 100% lo que le rodea
+Alguien que explora los límites, que quiere controlar 100% lo que le rodea
 
 Intenta tener un nivel de conocimientos profundo
 
@@ -84,7 +92,7 @@ Hacen todo lo posible porque sea así.
 ## Explorar sus límites
 ## Hacer que las cosas funcionen de acuerdo a como nosotros nos lo proponemos
 
-De la ética hacker al movimiento maker https://t.co/7RU9K03Yz3
+[De la ética hacker al movimiento maker](https://t.co/7RU9K03Yz3)
 
 ***
 
@@ -163,6 +171,8 @@ https://blog.adafruit.com/2016/05/16/water-curtain-is-arduino-powered-uses-3d-pr
 [Tutoriales para hacerte una impresora 3D](https://www.youtube.com/playlist?list=PL5214FB3136B7E69A)
 
 [Tutoriales para diseñar 3D](https://www.youtube.com/playlist?list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf)
+
+![title](https://avatars3.githubusercontent.com/u/1286062?v=3&s=400)
 
 ***
 
