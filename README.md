@@ -1,15 +1,28 @@
 # Granada Maker Day
 
-(Usar la presentación js)
-
 # ¿Qué es un maker?
 
 Mi padre es un maker
-Mi madre es una maker 
+Mi madre es una maker
 
-# Para mi es hacker que hace cosas
+Siempre me animaron a serlo, a hacer cosas:
+* Mis propios juguetes
+* Robots
+* Incluso un cohete!!!
 
-# ¿Qué es un hacker?
+* * *
+
+## ¿Por qué hacer cosas?
+
+Recordamos
+* el 10% de lo que leemos,
+* el 20% de lo que oímos
+* y el 90% de lo que construímos
+
+* * *
+# Para mi un Maker es Hacker que hace cosas, más físico
+
+## ¿Qué es un hacker?
 
 Alguien que explora los límites quiere controlar 100% lo que le rodea
 
@@ -19,7 +32,20 @@ Creen que el conocimiento debe ser libre y estar disponible para todo el mundo.
 
 Hacen todo lo posible porque sea así.
 
-(buscar los tweets que publiqué sobre el tema)
+# Ética Hacker (hackerethics)
+
+* La ética hacker no sólo propone compartir el conocimiento, sino que también propone compartir a las herramientas mismas.
+* El hacer genera un tipo de satisfacción muy particular: la sensación de estar teniendo un impacto directo sobre el mundo
+* La cultura del hacer propone devolver la dignidad a las personas, darles la certeza de que se puede cambiar el mundo y las herramientas están ahí
+* La forma de aprender del hacker/maker es por demanda y no por oferta, como nos acostumbró el sistema educativo
+* Un hacker no reclama que se haga algo sino que reclama que se quiten los obstáculos para poder hacerlo él mismo
+
+## Hackear: REAPROPIAESE de la tecnología, explorar sus límites y hacer que las cosas funcionen de acuerdo a como nosotros nos lo proponemos
+
+
+De la ética hacker al movimiento maker https://t.co/7RU9K03Yz3
+
+# Ética Maker
 
 Un maker prefiere construir sus herramientas porque así cumplen al 100% con sus necesidades:
 * Ni más ni menos de lo que necesita
@@ -80,5 +106,7 @@ Siempre Open-Source para..
 ## Open no es igual a Gratuito
 
 # ¿Maker en el cole?
+
+RT @seilita7: Procurad que se vayan a casa con más curiosidad que deberes.  @jblasgarcia #blogyticum
 
 ## Alhambra mágica
