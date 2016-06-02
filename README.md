@@ -46,7 +46,7 @@ Recordamos
 <!-- font: centurygothic -->
 
 
-# Para mi un Maker es Hacker que hace cosas, más físico
+# Para mi un Maker es un Hacker que hace cosas, más físico
 
 ## ¿Qué es un hacker?
 
