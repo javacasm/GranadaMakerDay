@@ -11,7 +11,8 @@
 ![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 ## José Antonio Vacas  @javacasm
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -26,7 +27,8 @@ Siempre me animaron a serlo, a hacer cosas:
 * Robots
 * Incluso un cohete!!!
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -38,7 +40,8 @@ Recordamos
 * el 20% de lo que oímos
 * y el 90% de lo que construímos
 
-***  <!-- background: #184bc6-->
+* * *  
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -63,11 +66,13 @@ Hacen todo lo posible porque sea así.
 * La forma de aprender del hacker/maker es por demanda y no por oferta, como nos acostumbró el sistema educativo
 * Un hacker no reclama que se haga algo sino que reclama que se quiten los obstáculos para poder hacerlo él mismo
 
-## Hackear: REAPROPIAESE de la tecnología, explorar sus límites y hacer que las cosas funcionen de acuerdo a como nosotros nos lo proponemos
+## Hackear:
+## REAPROPIARESE de la tecnología, explorar sus límites y hacer que las cosas funcionen de acuerdo a como nosotros nos lo proponemos
 
 De la ética hacker al movimiento maker https://t.co/7RU9K03Yz3
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -79,14 +84,16 @@ Un maker prefiere construir sus herramientas porque así cumplen al 100% con sus
 * Las controla al 100%
 * Confía totalmente en ella, sin sorpresas
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
 
 # La Ética Hacker implica un componente social
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -97,7 +104,8 @@ Un maker prefiere construir sus herramientas porque así cumplen al 100% con sus
 
 [Maker Fair 2016](http://makezine.com/2016/05/11/8-things-i-cant-wait-to-see-at-maker-faire-next-weekend/
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -106,7 +114,8 @@ Un maker prefiere construir sus herramientas porque así cumplen al 100% con sus
 
 https://jjrobots.com/air-hockey-robot-a-3d-printer-hack/
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -115,7 +124,8 @@ https://jjrobots.com/air-hockey-robot-a-3d-printer-hack/
 
 https://blog.adafruit.com/2016/05/16/water-curtain-is-arduino-powered-uses-3d-printed-valves-nozzles-to-print-letters-drawings-with-water-arduino-3dprinting/
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -172,7 +182,8 @@ Siempre Open-Source para..
  Linux
 Es el único que nos da control completo sobre lo que necesitamos
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -181,7 +192,8 @@ Es el único que nos da control completo sobre lo que necesitamos
 * Freecad
 * OpenScad
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -190,7 +202,8 @@ Es el único que nos da control completo sobre lo que necesitamos
 * Marlin
 * OpenWrt
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -199,7 +212,8 @@ Es el único que nos da control completo sobre lo que necesitamos
 * Cura
 * bCNC
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -209,7 +223,8 @@ Es el único que nos da control completo sobre lo que necesitamos
 * Raspberry
 * RepRap
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
@@ -218,7 +233,8 @@ Es el único que nos da control completo sobre lo que necesitamos
 
 ## Open no es igual a Gratuito
 
-*** <!-- background: #184bc6-->
+* * *
+<!-- background: #184bc6-->
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
