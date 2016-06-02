@@ -54,6 +54,10 @@ Un maker prefiere construir sus herramientas porque así cumplen al 100% con sus
 
 * * *
 
+# La Ética Hacker implica un componente social
+
+* * *
+
 # Proyectos
 
 (Disculpad el sesgo, tengo un perfil muy técnico)
