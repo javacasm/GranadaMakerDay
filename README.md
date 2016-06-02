@@ -42,9 +42,9 @@ Hacen todo lo posible porque sea así.
 
 ## Hackear: REAPROPIAESE de la tecnología, explorar sus límites y hacer que las cosas funcionen de acuerdo a como nosotros nos lo proponemos
 
-
 De la ética hacker al movimiento maker https://t.co/7RU9K03Yz3
 
+* * *
 # Ética Maker
 
 Un maker prefiere construir sus herramientas porque así cumplen al 100% con sus necesidades:
@@ -52,26 +52,49 @@ Un maker prefiere construir sus herramientas porque así cumplen al 100% con sus
 * Las controla al 100%
 * Confía totalmente en ella, sin sorpresas
 
+* * *
+
 # Proyectos
+
 (Disculpad el sesgo, tengo un perfil muy técnico)
+
+* * *
 
 ## Hockey air
 
 https://jjrobots.com/air-hockey-robot-a-3d-printer-hack/
 
+* * *
+
 ## Cortina de agua
 
 https://blog.adafruit.com/2016/05/16/water-curtain-is-arduino-powered-uses-3d-printed-valves-nozzles-to-print-letters-drawings-with-water-arduino-3dprinting/
 
+* * *
+
 ## Tutoriales de ObiJuan
+
+* * *
 
 ## FPGAs
 
+* * *
+
 # ¿Qué necesita un maker?
 
-## Herramientas
+* Herramientas libres
+* Software libre
+* Conocimiento libre
+
+* * *
+
+# Herramientas
 * Impresora 3D
 * Cortadora Láser
+* Fresadora
+* ...
+
+* * *
 
 ##  Software 100% Libre
 
@@ -81,29 +104,42 @@ Siempre Open-Source para..
 * Hacerlo crecer
 * Para que sea Patrimonio Tecnológico de la Comunidad
 
-# Sistema operativo
+## Sistema operativo
  Linux
+Es el único que nos da control completo sobre lo que necesitamos
+
+* * *
 
 ### Diseño
 * Freecad
 * OpenScad
 
+* * *
+
 ### Firmware
 * Marlin
 * OpenWrt
 
+* * *
+
 ### Software de control de las máquinas
 * Cura
 * bCNC
+
+* * *
 
 ## Open-Hardware
 * Arduino
 * Raspberry
 * RepRap
 
+* * *
+
 # ¿Se puede vivir de ser un Maker?
 
 ## Open no es igual a Gratuito
+
+* * *
 
 # ¿Maker en el cole?
 
